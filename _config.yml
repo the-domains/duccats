@@ -1,0 +1,14 @@
+layout_spectrum: 0.760737
+typography_spectrum: 0.3962901
+color:
+  saturation: 0.2150352
+  lightness: 0.07166947
+  brandStrength: 0.8153457
+  brandColors:
+    - '#FFFFFF'
+    - '#383838'
+    - '#FE8000'
+    - '#9DA4B8'
+    - '#A85000'
+  rhythmicContrast: 0.5267984
+name: Duccats
