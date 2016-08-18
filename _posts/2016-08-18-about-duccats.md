@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-18T21:20:03.336Z'
-isBasedOnUrl: >-
-  https://passport.thegrid.io/login/email/authorize?token=hCfQSxzRH82vIb5OUQj8LstmDGqcGJvCIxbz&user=e0949a41-ba8c-425b-9ef2-126794856a5c&redirect_uri=https%3A%2F%2Ftesting.thegrid.io%2Fapp%3Fprovider%3Demail
+datePublished: '2016-08-18T21:34:59.248Z'
 author: []
 via: {}
-dateModified: '2016-08-18T21:18:57.299Z'
+dateModified: '2016-08-18T21:34:58.840Z'
 title: About Duccats
 publisher: {}
-description: ' Duccats is focused on developing useful and unique applications for creative people of integrity all over the world. We create apps with a purpose that provide positive and fun experience for all ages. '
-starred: false
+description: >-
+  Duccats is focused on developing useful and unique applications for creative
+  people of integrity all over the world. We create apps with a purpose that
+  provide positive and fun experience for all ages. 
 sourcePath: _posts/2016-08-18-about-duccats.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: about-duccats/index.html
 _type: MediaObject
 
 ---
