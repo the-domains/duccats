@@ -15,9 +15,9 @@ metadata:
     Duccats is focused on developing useful and unique applications for creative
     people of integrity all over the world. We create apps with a purpose that
     provide positive and fun experience for all ages.
-dateModified: '2016-08-18T22:15:07.607Z'
+dateModified: '2016-08-18T22:21:01.567Z'
 title: About Duccats
-datePublished: '2016-08-18T22:18:05.107Z'
+datePublished: '2016-08-18T22:21:01.720Z'
 author: []
 sourcePath: _posts/2016-08-18-about-duccats.md
 description: >-
