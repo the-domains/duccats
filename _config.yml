@@ -11,6 +11,8 @@ color:
     - '#A85000'
   rhythmicContrast: 0.5267984
 layout_spectrum: 0.760737
+analytics:
+  google: UA-1062323-1
 name: Duccats
 title: Fun with a Porpoise!
 description: 'Innovate - Integrate - Motivate '
