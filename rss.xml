@@ -4,8 +4,15 @@
         <description><![CDATA[Fun with a Porpoise!]]></description>
         <link>http://duccats.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 22:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 22:27:36 GMT</lastBuildDate>
         <atom:link href="http://duccats.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[JumbleFace]]></title>
+            <description><![CDATA[<article><h1>JumbleFace</h1><p>This video is about JumbleFace</p></article>]]></description>
+            <link>https://youtu.be/hU_8pCC0Gr8</link>
+            <guid isPermaLink="false">2a3e16d4-245b-437e-a995-42ca88285202</guid>
+            <pubDate>Thu, 18 Aug 2016 22:27:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[JumbleFace Intro]]></title>
             <description><![CDATA[<article><h1>JumbleFace Intro</h1><p>JumbleFace for the Human Race!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dafe1f914155d110e2069c1090876bbe/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FEjNiywQORXk%2Fmaxresdefault.jpg"></article>]]></description>
