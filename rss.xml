@@ -4,11 +4,11 @@
         <description><![CDATA[Fun with a Porpoise!]]></description>
         <link>http://duccats.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 22:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 22:30:14 GMT</lastBuildDate>
         <atom:link href="http://duccats.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[JumbleFace]]></title>
-            <description><![CDATA[<article><h1>JumbleFace</h1><p>This video is about JumbleFace</p></article>]]></description>
+            <description><![CDATA[<article><h1>JumbleFace</h1><p>This video is about JumbleFace</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0622719ea0a8023d897b1ca121908000/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FhU_8pCC0Gr8%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://youtu.be/hU_8pCC0Gr8</link>
             <guid isPermaLink="false">2a3e16d4-245b-437e-a995-42ca88285202</guid>
             <pubDate>Thu, 18 Aug 2016 22:27:01 GMT</pubDate>
@@ -68,13 +68,6 @@
             <link>http://duccats.com/ca8260ec-983e-49c8-ab04-497276bf82cb/index.html</link>
             <guid isPermaLink="false">ca8260ec-983e-49c8-ab04-497276bf82cb</guid>
             <pubDate>Thu, 18 Aug 2016 19:51:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What's In a Face?]]></title>
-            <description><![CDATA[<article><h1>jumbleface</h1></article>]]></description>
-            <link>http://duccats.com/whats-in-a-face/index.html</link>
-            <guid isPermaLink="false">e9a9d16b-0ce3-4384-b1af-68a84816643e</guid>
-            <pubDate>Thu, 18 Aug 2016 19:51:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
