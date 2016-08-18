@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Fun with a Porpoise!]]></title>
         <description><![CDATA[Fun with a Porpoise!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://duccats.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 19:51:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 19:51:29 GMT</lastBuildDate>
+        <atom:link href="http://duccats.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What's In a Face?]]></title>
+            <description><![CDATA[<article><h1>jumbleface</h1></article>]]></description>
+            <link>http://duccats.com/whats-in-a-face/index.html</link>
+            <guid isPermaLink="false">e9a9d16b-0ce3-4384-b1af-68a84816643e</guid>
+            <pubDate>Thu, 18 Aug 2016 19:51:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df130773-1633-428d-9037-201a583cfe01.jpg">]]></description>
-            <link>undefined466e0518-0a32-4f05-8871-071144b12058/index.html</link>
+            <link>http://duccats.com/466e0518-0a32-4f05-8871-071144b12058/index.html</link>
             <guid isPermaLink="false">466e0518-0a32-4f05-8871-071144b12058</guid>
             <pubDate>Thu, 18 Aug 2016 19:51:02 GMT</pubDate>
         </item>
