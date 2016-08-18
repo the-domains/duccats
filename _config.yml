@@ -23,9 +23,6 @@ navigation:
   - name: Bible Study Tools
     url: 'http://helpmewithbiblestudy.org'
     type: external
-  - name: About Duccats
-    id: 3a8d9ece-3005-4e92-9c53-34f40bc49bb7
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/81bfca08-1e91-419a-a19e-d69c5dc5ee89.ico
 title: Fun with a Porpoise!
