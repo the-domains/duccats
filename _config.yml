@@ -20,9 +20,6 @@ navigation:
   - name: Bible Study Tools
     url: 'http://helpmewithbiblestudy.com'
     type: external
-  - name: JumbleFace
-    url: jumble-face.com
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/81bfca08-1e91-419a-a19e-d69c5dc5ee89.ico
 title: Fun with a Porpoise!
