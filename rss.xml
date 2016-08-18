@@ -4,8 +4,15 @@
         <description><![CDATA[Fun with a Porpoise!]]></description>
         <link>http://duccats.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 19:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 21:20:05 GMT</lastBuildDate>
         <atom:link href="http://duccats.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Duccats]]></title>
+            <description><![CDATA[<article><h1>About Duccats</h1><p>Duccats is focused on developing useful and unique applications for creative people of integrity all over the world. We create apps with a purpose that provide positive and fun experience for all ages. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0e2d237b9d33f703c48453daee07baa6694427b.png"></article>]]></description>
+            <link>https://passport.thegrid.io/login/email/authorize?token=hCfQSxzRH82vIb5OUQj8LstmDGqcGJvCIxbz&amp;user=e0949a41-ba8c-425b-9ef2-126794856a5c&amp;redirect_uri=https%3A%2F%2Ftesting.thegrid.io%2Fapp%3Fprovider%3Demail</link>
+            <guid isPermaLink="false">3a8d9ece-3005-4e92-9c53-34f40bc49bb7</guid>
+            <pubDate>Thu, 18 Aug 2016 21:20:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc1d0f47-a474-45d6-925b-d43f570846d7.png">]]></description>
